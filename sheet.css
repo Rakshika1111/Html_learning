@@ -1,0 +1,23 @@
+body {
+    border: 1px solid black
+}
+
+h1,h2 {
+font-style: italic;
+color: rgba(14, 155, 225, 0.771);
+}
+
+p {
+    
+    color: hsla(120, 35%, 48%, 0.622);
+}
+
+.highlight{
+    background-color: blanchedalmond;
+}
+
+#hy{
+    color: black;
+}
+/* I'm learning CSSbut i dont know what to do with this shirt */
+/* hjgyjjuykiuj;oki;*/
